@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/leaflet",
+    "name": "jadb/leaflet",
     "description": "CakePHP Leaflet Plugin",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "leaflet", "plugin"],
